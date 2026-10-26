@@ -1,5 +1,7 @@
 defmodule Noizu.Google.Api.Ads.Customers do
   @moduledoc """
+  〚📦:bd50cea6-6fa5-5b1a-bb67-5c802b5046c5〛 Noizu.Google.Api.Ads.Customers :: Google Ads v17 REST helpers: GAQL search, mutate, conversion actions.
+
   Google Ads API — thin REST helpers (search + mutate).
 
   Base: `https://googleads.googleapis.com/v17/`

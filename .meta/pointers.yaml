@@ -1,0 +1,98 @@
+---
+pointers:
+  2d5f7df1-66a0-5a7c-9bf4-f301b9577e48:
+    created_at: 2026-10-26T23:34:34.129788Z
+    description: 'Public facade: client/0, base URL getters, API namespace map.'
+    file_path: lib/noizu_google.ex
+    function: Noizu.Google
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/noizu_google.ex
+        line: 3
+    token: 𓤻𓵐𔑜𓔘
+    updated_at: 2026-10-26T23:34:34.129788Z
+  445b4db8-2b0c-5dfb-95da-d73cc52a1c50:
+    created_at: 2026-10-26T23:34:34.129807Z
+    description: Install, configuration, per-API examples, error and scope tables.
+    file_path: README.md
+    function: Noizu Google README
+    kind: file
+    line: 3
+    locations:
+      - file_path: README.md
+        line: 3
+    token: 𔒬𔑯𓆜𓋰
+    updated_at: 2026-10-26T23:34:34.129807Z
+  4ce34583-9584-5b80-a47e-7436c61ba227:
+    created_at: 2026-10-26T23:34:34.129760Z
+    description: Service-account JSON validation, RS256 assertion, token mint.
+    file_path: lib/google/service_account.ex
+    function: Noizu.Google.ServiceAccount
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/google/service_account.ex
+        line: 3
+    token: 𓎁𓬧𓱒𓈧
+    updated_at: 2026-10-26T23:34:34.129760Z
+  5c52f4ab-6cb7-56b3-a873-e5bd6316dcfb:
+    created_at: 2026-10-26T23:34:34.129791Z
+    description: GCP project, scopes, refresh-token bootstrap, dc/Infisical mapping, safety.
+    file_path: docs/oauth-secrets-runbook.md
+    function: OAuth and secrets runbook
+    kind: file
+    line: 3
+    locations:
+      - file_path: docs/oauth-secrets-runbook.md
+        line: 3
+    token: 𓥘𓗪𓉠𓬋
+    updated_at: 2026-10-26T23:34:34.129791Z
+  6c1bf133-d2c3-57b0-93d9-254c20a6c771:
+    created_at: 2026-10-26T23:34:34.129795Z
+    description: 'JSON REST transport: verbs, bearer auth, decode modes, form POST.'
+    file_path: lib/google/http.ex
+    function: Noizu.Google.HTTP
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/google/http.ex
+        line: 3
+    token: 𓪇𓚬𓒰𔖁
+    updated_at: 2026-10-26T23:34:34.129795Z
+  7ebf5ad5-254b-51d8-9f33-f934033df0a3:
+    created_at: 2026-10-26T23:34:34.129778Z
+    description: 'Client struct: credentials, per-product base URLs, token resolution.'
+    file_path: lib/google/client.ex
+    function: Noizu.Google.Client
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/google/client.ex
+        line: 3
+    token: 𓟶𓲝𔘕𓍓
+    updated_at: 2026-10-26T23:34:34.129778Z
+  bd50cea6-6fa5-5b1a-bb67-5c802b5046c5:
+    created_at: 2026-10-26T23:34:34.129800Z
+    description: 'Google Ads v17 REST helpers: GAQL search, mutate, conversion actions.'
+    file_path: lib/google/api/ads/customers.ex
+    function: Noizu.Google.Api.Ads.Customers
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/google/api/ads/customers.ex
+        line: 3
+    token: 𓲭𔎈𓵟𓈕
+    updated_at: 2026-10-26T23:34:34.129800Z
+  c87ec7a5-21d5-5430-ad2f-5e6d519f8cdc:
+    created_at: 2026-10-26T23:34:34.129804Z
+    description: 'OAuth2 helpers: authorize URL, code exchange, refresh, JWT bearer.'
+    file_path: lib/google/oauth.ex
+    function: Noizu.Google.OAuth
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/google/oauth.ex
+        line: 3
+    token: 𓸅𓨏𔁒𓔌
+    updated_at: 2026-10-26T23:34:34.129804Z

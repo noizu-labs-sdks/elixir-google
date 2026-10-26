@@ -1,5 +1,7 @@
 defmodule Noizu.Google.OAuth do
   @moduledoc """
+  〚📦:c87ec7a5-21d5-5430-ad2f-5e6d519f8cdc〛 Noizu.Google.OAuth :: OAuth2 helpers: authorize URL, code exchange, refresh, JWT bearer.
+
   OAuth2 helpers for Google APIs.
 
   ## Authorization URL

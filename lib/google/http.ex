@@ -1,5 +1,7 @@
 defmodule Noizu.Google.HTTP do
   @moduledoc """
+  〚📦:6c1bf133-d2c3-57b0-93d9-254c20a6c771〛 Noizu.Google.HTTP :: JSON REST transport: verbs, bearer auth, decode modes, form POST.
+
   Low-level HTTP helpers for Google REST APIs.
 
   JSON GET/POST/PUT/PATCH/DELETE with OAuth2 bearer tokens. `:base` selects a

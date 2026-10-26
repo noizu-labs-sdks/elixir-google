@@ -1,5 +1,7 @@
 # OAuth & secrets runbook — Google marketing plane
 
+<!-- 〚📁:5c52f4ab-6cb7-56b3-a873-e5bd6316dcfb〛 OAuth and secrets runbook :: GCP project, scopes, refresh-token bootstrap, dc/Infisical mapping, safety. -->
+
 Credentials for MCP (`:noizu_google_mcp`) and the OpenTofu provider
 (`noizu/google-marketing`). **Never commit tokens.**
 

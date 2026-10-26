@@ -1,5 +1,7 @@
 defmodule Noizu.Google.Client do
   @moduledoc """
+  〚📦:7ebf5ad5-254b-51d8-9f33-f934033df0a3〛 Noizu.Google.Client :: Client struct: credentials, per-product base URLs, token resolution.
+
   Client configuration for Google API calls.
 
   Prefer building a client once and passing it via opts:

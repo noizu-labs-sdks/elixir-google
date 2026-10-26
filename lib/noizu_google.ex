@@ -1,5 +1,7 @@
 defmodule Noizu.Google do
   @moduledoc """
+  〚📦:2d5f7df1-66a0-5a7c-9bf4-f301b9577e48〛 Noizu.Google :: Public facade: client/0, base URL getters, API namespace map.
+
   Google REST API client for Elixir.
 
   OAuth2 bearer auth (user refresh tokens or service-account JWT), Finch + Jason
