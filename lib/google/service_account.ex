@@ -1,5 +1,7 @@
 defmodule Noizu.Google.ServiceAccount do
   @moduledoc """
+  〚📦:4ce34583-9584-5b80-a47e-7436c61ba227〛 Noizu.Google.ServiceAccount :: Service-account JSON validation, RS256 assertion, token mint.
+
   Google service-account JSON credentials (JWT bearer).
 
   Loads a standard GCP service-account key (`type: "service_account"`) and

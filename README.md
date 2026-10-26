@@ -1,5 +1,7 @@
 # Noizu Google
 
+<!-- 〚📁:445b4db8-2b0c-5dfb-95da-d73cc52a1c50〛 Noizu Google README :: Install, configuration, per-API examples, error and scope tables. -->
+
 [![Hex.pm](https://img.shields.io/hexpm/v/noizu_google.svg)](https://hex.pm/packages/noizu_google)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-lightgreen.svg)](https://hexdocs.pm/noizu_google/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/noizu-labs/elixir-google/blob/main/LICENSE)
