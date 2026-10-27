@@ -3,6 +3,10 @@
 All notable changes to this project are documented in this file.
 This project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 2026-10-28
+
+- docs: add AGENT-README.md (agent orientation)
+
 ## 2026-10-26
 
 - docs: doc sweep — authored `PROJ-LAYOUT`, `PROJ-ARCH`, `PROJ-SCHEMA`, `THREAT-MODEL` (+summaries, `layout/` and `arch/` detail pages) from source
